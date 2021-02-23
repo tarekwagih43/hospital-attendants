@@ -1,0 +1,10 @@
+E:\school\labirary\labirary\bin\Release\labirary.exe.config
+E:\school\labirary\labirary\bin\Release\labirary.exe
+E:\school\labirary\labirary\bin\Release\labirary.pdb
+E:\school\labirary\labirary\obj\Release\labirary.csprojAssemblyReference.cache
+E:\school\labirary\labirary\obj\Release\labirary.Form1.resources
+E:\school\labirary\labirary\obj\Release\labirary.Properties.Resources.resources
+E:\school\labirary\labirary\obj\Release\labirary.csproj.GenerateResource.cache
+E:\school\labirary\labirary\obj\Release\labirary.csproj.CoreCompileInputs.cache
+E:\school\labirary\labirary\obj\Release\labirary.exe
+E:\school\labirary\labirary\obj\Release\labirary.pdb

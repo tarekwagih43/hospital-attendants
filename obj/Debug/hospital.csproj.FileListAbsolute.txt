@@ -1,0 +1,9 @@
+E:\school\labirary\labirary\bin\Debug\labirary.exe.config
+E:\school\labirary\labirary\bin\Debug\labirary.exe
+E:\school\labirary\labirary\bin\Debug\labirary.pdb
+E:\school\labirary\labirary\obj\Debug\labirary.Form1.resources
+E:\school\labirary\labirary\obj\Debug\labirary.Properties.Resources.resources
+E:\school\labirary\labirary\obj\Debug\hospital.csproj.GenerateResource.cache
+E:\school\labirary\labirary\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+E:\school\labirary\labirary\obj\Debug\labirary.exe
+E:\school\labirary\labirary\obj\Debug\labirary.pdb
